@@ -13,6 +13,9 @@ export default {
         customSm: "8px 8px 0px 0px #000;",
         customMd: "16px 16px 0px 0px #000;",
       },
+      fontFamily: {
+        custom: ["Figtree", "Georgia", "serif"],
+      },
     },
   },
   plugins: [],

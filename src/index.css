@@ -2,6 +2,21 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: "Figtree";
+  src: url("/src/assets/fonts/Figtree-VariableFont_wght.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 100 900;
+}
+
+@font-face {
+  font-family: "Figtree";
+  src: url("/src/assets/fonts/Figtree-Italic-VariableFont_wght.ttf")
+    format("truetype");
+  font-style: italic;
+  font-weight: 100 900;
+}
+
 html,
 body,
 #root {
