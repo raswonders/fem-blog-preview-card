@@ -2,7 +2,7 @@ import avatar from "./assets/images/image-avatar.webp";
 
 function App() {
   return (
-    <main className="flex justify-center items-center h-full">
+    <main className="flex justify-center items-center h-full bg-yellow">
       <div className="max-w-80 p-6 sm:max-w-96  border flex flex-col items-start gap-6">
         <div></div>
         <div className="flex flex-col">
