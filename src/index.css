@@ -8,3 +8,9 @@
   --yelow: hsla(47, 89%, 63%, 1);
   --grey: hsla(0, 0%, 50%, 1);
 }
+
+html,
+body,
+#root {
+  height: 100%;
+}
