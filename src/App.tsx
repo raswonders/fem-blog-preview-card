@@ -15,11 +15,6 @@ function App() {
           </p>
         </div>
         <div className="flex">
-          <img
-            className="max-w-8"
-            src="./assets/images/image-avatar.webp"
-            alt="User's avatar"
-          />
           <img className="max-w-8" src={avatar} alt="User's avatar" />
           <h2 className="">Greg Hooper</h2>
         </div>
