@@ -18,7 +18,7 @@ export function BlogPreviewCard() {
         <h1 className="text-[20px] sm:text-2xl leading-normal font-extrabold hover:text-yellow hover:cursor-pointer">
           HTML & CSS foundations
         </h1>
-        <p className="">
+        <p className="text-grey text-[14px] sm:text-base font-medium leading-normal">
           These languages are the backbone of every website, defining structure,
           content, and presentation.
         </p>
