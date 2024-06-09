@@ -23,9 +23,12 @@ export function BlogPreviewCard() {
           content, and presentation.
         </p>
       </div>
-      <div className="flex">
+
+      <div className="flex items-center gap-3">
         <img className="max-w-8" src={avatar} alt="User's avatar" />
-        <h2 className="">Greg Hooper</h2>
+        <h2 className="text-[14px] font-extrabold leading-normal">
+          Greg Hooper
+        </h2>
       </div>
     </div>
   );
