@@ -3,7 +3,7 @@ import avatar from "./assets/images/image-avatar.webp";
 function App() {
   return (
     <main className="flex justify-center items-center h-full bg-yellow">
-      <div className="max-w-80 p-6 sm:max-w-96  border flex flex-col items-start gap-6">
+      <div className="max-w-80 p-6 sm:max-w-96 flex flex-col items-start gap-6 border border-black rounded-[20px] bg-pureWhite shadow-customSm sm:shadow-customMd">
         <div></div>
         <div className="flex flex-col">
           <div className="">Learning</div>
