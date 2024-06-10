@@ -16,7 +16,7 @@ export function BlogPreviewCard() {
       <img className="rounded-[10px] bg-yellow" src={ilustration} alt="" />
 
       <div className="flex flex-col gap-3 font-custom">
-        <div className="w-fit flex justify-center gap-2 py-1 px-3 rounded bg-yellow">
+        <div className="flex justify-center gap-2 px-3 py-1 rounded w-fit bg-yellow">
           <span className="text-xs sm:text-[14px] font-extrabold leading-normal">
             Learning
           </span>
